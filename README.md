@@ -28,6 +28,29 @@ Log In with your credentials.
 > ***Upload your Data :***
 Create, update, or view your health record information.
 
+
+## <u>PATIENT DASHBOARD :</u>
+#### <u>PATIENT PROFILE :</u>
+![PATIENT PROFILE ](safe/public/patient_dashboard/patient_profile.png)
+#### <u>AVAILABLE DOCTORS :</u>
+![AVAILABLE DOCTORS ](safe/public/patient_dashboard/availabledoctors.png)
+#### <u>MEDICAL HISTORY :</u>
+![MEDICAL HISTORY ](safe/public/patient_dashboard/patient_medicalhistory.png)
+#### <u>ALLERGIES :</u>
+![ALLERGIES ](safe/public/patient_dashboard/patient_allergies.png)
+#### <u>INSURANCE :</u>
+![INSURANCE](safe/public/patient_dashboard/patient_insurance.png)
+#### <u>REMOTE DATA MONITORING :</u>
+![REMOTE DATA MONITORING](safe/public/patient_dashboard/remotemonitoring_ecg.png)
+
+
+## <u>DOCTOR DASHBOARD :</u>
+#### <u>DOCTOR PROFILE :</u>
+![DOCTOR PROFILE ](safe/public/doctor_dashboard/doctor_profile.png)
+#### <u>MY PATIENTS :</u>
+![MY PATIENTS](safe/public/doctor_dashboard/doctor_mypatients_.png)
+![MY PATIENTS](safe/public/doctor_dashboard/doctor_patientData_mypatients_.png)
+
 ### <u>PROBLEMS WE FACED :</u>
 
 - Getting problems in maintaining and organizing your medical records, before consulting your Doctor.
