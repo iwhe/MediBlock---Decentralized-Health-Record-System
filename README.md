@@ -1,5 +1,5 @@
 ## MediBlock :
-![Homepage](safe\public\homepage.png)
+![Homepage](safe/public/homepa/e.png)
 
 
 MediBlock is a Blockchain-based Electronic health Record Storage and Retrieval System.
@@ -11,10 +11,10 @@ MediBlock is a Blockchain-based Electronic health Record Storage and Retrieval S
 - Only Let Your Trusted Doctors To View Your Medical Records.
 
 #### <u>SIGN UP :</u>
-![SIGN UP](safe\public\signup.png)
+![SIGN UP](safe/public/signup.png)
 
 #### <u>LOG IN :</u>
-![LOG IN](safe\public\login.png)
+![LOG IN](safe/public/login.png)
 
 
 ### <u>EASY STEPS :</u>
