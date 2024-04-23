@@ -1,4 +1,7 @@
 ## MediBlock :
+![Homepage](safe\public\homepage.png)
+
+
 MediBlock is a Blockchain-based Electronic health Record Storage and Retrieval System.
 
 - Blockchain Technology with the help of **IPFS** Provides the Required Safety For Maintaining Record.
@@ -6,6 +9,13 @@ MediBlock is a Blockchain-based Electronic health Record Storage and Retrieval S
 - Securely Store Your Sensitive Data Such As Health Record.
 
 - Only Let Your Trusted Doctors To View Your Medical Records.
+
+#### <u>SIGN UP :</u>
+![SIGN UP](safe\public\signup.png)
+
+#### <u>LOG IN :</u>
+![LOG IN](safe\public\login.png)
+
 
 ### <u>EASY STEPS :</u>
 
@@ -38,7 +48,11 @@ Keep track of your medical records, enabled by blockchain technology.
 2. ***Connect With Doctors :***
 Share your records with our trusted medical experts, to get a prescription.
 
-3. ***Disease Prediction Model :***
+3. ***Remote Data Monitoring :***
+Has scope to monitor health data with the integration with IoT devices.
+Plan on monitor heart related remotely making it flexible and secure for patient with collaboration with ECG247 Heart Sensor, which will allow handle situation in critical condition.
+
+4. ***Disease Prediction Model :***
 Get a precautionary alert about diseases you might suffer from, based on our ML model.
 
 
@@ -74,7 +88,6 @@ Collaborate with healthcare providers to offer a complete solution for medical r
 - Ganache
 - Solidity
 - MetaMask
-- Flask
 - React
 - Tailwind CSS
 
